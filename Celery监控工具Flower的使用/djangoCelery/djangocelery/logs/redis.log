@@ -1,0 +1,31 @@
+578:C 30 Sep 11:45:33.144 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+578:C 30 Sep 11:45:33.145 # Redis version=4.0.10, bits=64, commit=00000000, modified=0, pid=578, just started
+578:C 30 Sep 11:45:33.145 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+578:M 30 Sep 11:45:33.150 * Running mode=standalone, port=6379.
+578:M 30 Sep 11:45:33.150 # Server initialized
+578:M 30 Sep 11:45:33.150 * Ready to accept connections
+578:signal-handler (1538279309) Received SIGTERM scheduling shutdown...
+578:signal-handler (1538279309) Received SIGTERM scheduling shutdown...
+578:M 30 Sep 11:48:29.515 # User requested shutdown...
+578:M 30 Sep 11:48:29.515 * Saving the final RDB snapshot before exiting.
+578:M 30 Sep 11:48:29.517 * DB saved on disk
+578:M 30 Sep 11:48:29.517 # Redis is now ready to exit, bye bye...
+562:C 30 Sep 11:50:04.636 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+562:C 30 Sep 11:50:04.637 # Redis version=4.0.10, bits=64, commit=00000000, modified=0, pid=562, just started
+562:C 30 Sep 11:50:04.637 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+562:M 30 Sep 11:50:04.642 * Running mode=standalone, port=6379.
+562:M 30 Sep 11:50:04.642 # Server initialized
+562:M 30 Sep 11:50:04.643 * DB loaded from disk: 0.001 seconds
+562:M 30 Sep 11:50:04.643 * Ready to accept connections
+562:M 30 Sep 11:55:05.038 * 100 changes in 300 seconds. Saving...
+562:M 30 Sep 11:55:05.038 * Background saving started by pid 635
+635:C 30 Sep 11:55:05.042 * DB saved on disk
+562:M 30 Sep 11:55:05.141 * Background saving terminated with success
+562:M 30 Sep 12:00:06.046 * 100 changes in 300 seconds. Saving...
+562:M 30 Sep 12:00:06.047 * Background saving started by pid 658
+658:C 30 Sep 12:00:06.051 * DB saved on disk
+562:M 30 Sep 12:00:06.151 * Background saving terminated with success
+562:M 30 Sep 12:05:07.041 * 100 changes in 300 seconds. Saving...
+562:M 30 Sep 12:05:07.042 * Background saving started by pid 677
+677:C 30 Sep 12:05:07.045 * DB saved on disk
+562:M 30 Sep 12:05:07.146 * Background saving terminated with success

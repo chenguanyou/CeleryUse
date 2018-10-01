@@ -1,0 +1,23 @@
+[I 180930 03:50:06 command:139] Visit me at http://localhost:5555
+[I 180930 03:50:06 command:144] Broker: redis://127.0.0.1:6379/1
+[I 180930 03:50:06 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 180930 03:50:06 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 180930 03:50:09 control:44] 'stats' inspect method failed
+[W 180930 03:50:09 control:44] 'active_queues' inspect method failed
+[W 180930 03:50:09 control:44] 'registered' inspect method failed
+[W 180930 03:50:09 control:44] 'scheduled' inspect method failed
+[W 180930 03:50:09 control:44] 'active' inspect method failed
+[W 180930 03:50:09 control:44] 'reserved' inspect method failed
+[W 180930 03:50:09 control:44] 'revoked' inspect method failed
+[W 180930 03:50:09 control:44] 'conf' inspect method failed
+[W 180930 04:01:43 web:1588] 404 GET /broker (::1): Unable to get queues: ''str' object has no attribute 'name''
+[W 180930 04:01:57 web:1588] 404 GET /broker (::1): Unable to get queues: ''str' object has no attribute 'name''

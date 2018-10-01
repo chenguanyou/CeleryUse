@@ -1,0 +1,108 @@
+ 
+ -------------- celery@localhost v3.1.26.post2 (Cipater)
+---- **** ----- 
+--- * ***  * -- Darwin-17.7.0-x86_64-i386-64bit
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         default:0x1107db9b0 (djcelery.loaders.DjangoLoader)
+- ** ---------- .> transport:   redis://127.0.0.1:6379/1
+- ** ---------- .> results:     redis://127.0.0.1:6379/2
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> beat_tasks       exchange=beat_tasks(direct) key=beat_tasks
+                .> work_queue       exchange=work_queue(direct) key=work_queue
+
+[tasks]
+  . course-task
+
+ 
+ -------------- celery@localhost v3.1.26.post2 (Cipater)
+---- **** ----- 
+--- * ***  * -- Darwin-17.7.0-x86_64-i386-64bit
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         default:0x1111d79b0 (djcelery.loaders.DjangoLoader)
+- ** ---------- .> transport:   redis://127.0.0.1:6379/1
+- ** ---------- .> results:     redis://127.0.0.1:6379/2
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> beat_tasks       exchange=beat_tasks(direct) key=beat_tasks
+                .> work_queue       exchange=work_queue(direct) key=work_queue
+
+[tasks]
+  . course-task
+
+ 
+ -------------- celery@localhost v3.1.26.post2 (Cipater)
+---- **** ----- 
+--- * ***  * -- Darwin-17.7.0-x86_64-i386-64bit
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         default:0x110fcf9b0 (djcelery.loaders.DjangoLoader)
+- ** ---------- .> transport:   redis://127.0.0.1:6379/1
+- ** ---------- .> results:     redis://127.0.0.1:6379/2
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> beat_tasks       exchange=beat_tasks(direct) key=beat_tasks
+                .> work_queue       exchange=work_queue(direct) key=work_queue
+
+[tasks]
+  . course-task
+
+ 
+ -------------- celery@localhost v3.1.26.post2 (Cipater)
+---- **** ----- 
+--- * ***  * -- Darwin-17.7.0-x86_64-i386-64bit
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         default:0x1111cf9b0 (djcelery.loaders.DjangoLoader)
+- ** ---------- .> transport:   redis://127.0.0.1:6379/1
+- ** ---------- .> results:     redis://127.0.0.1:6379/2
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> beat_tasks       exchange=beat_tasks(direct) key=beat_tasks
+                .> work_queue       exchange=work_queue(direct) key=work_queue
+
+[tasks]
+  . course-task
+
+ 
+ -------------- celery@localhost v3.1.26.post2 (Cipater)
+---- **** ----- 
+--- * ***  * -- Darwin-17.7.0-x86_64-i386-64bit
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         default:0x110fce9b0 (djcelery.loaders.DjangoLoader)
+- ** ---------- .> transport:   redis://127.0.0.1:6379/1
+- ** ---------- .> results:     redis://127.0.0.1:6379/2
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> beat_tasks       exchange=beat_tasks(direct) key=beat_tasks
+                .> work_queue       exchange=work_queue(direct) key=work_queue
+
+[tasks]
+  . course-task
+
+ 
+ -------------- celery@localhost v3.1.26.post2 (Cipater)
+---- **** ----- 
+--- * ***  * -- Darwin-17.7.0-x86_64-i386-64bit
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         default:0x110fca9b0 (djcelery.loaders.DjangoLoader)
+- ** ---------- .> transport:   redis://127.0.0.1:6379/1
+- ** ---------- .> results:     redis://127.0.0.1:6379/2
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> beat_tasks       exchange=beat_tasks(direct) key=beat_tasks
+                .> work_queue       exchange=work_queue(direct) key=work_queue
+
+[tasks]
+  . course-task
+
